@@ -1,24 +1,3 @@
-# Advanced AD blocking & logadblocks options depend on having the phrase
-# "ADs" in a list's category.
-
-#listcategory: "ADs"
-
-# Example list taken from squidGuard on 2005-10-24
-
-#
-# !!! WARNING WARNING WARNING WARNING WARNING WARNING WARNING WARNING !!!
-#
-# This list is entierly a product of a dumb robot (squidGuardRobot-2.3.7).
-# We strongly recommend that you review the lists before using them!
-# Don't blame us if there are mistakes, but please report errors with
-# the online tool at http://www.squidguard.org/blacklist/
-#
-# !!! WARNING WARNING WARNING WARNING WARNING WARNING WARNING WARNING !!!
-#
-# This list was compiled in 0:50:02 on 2005.10.22 00:50:11.
-# This list was compiled from 0 link sources and 2172 links,
-# of which 928 tested successfully.
-#
 3dnews.ru/bs
 3dnews.ru/i/rus/a
 3dnews.ru/images/regular-3dnews
